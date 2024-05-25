@@ -4,7 +4,7 @@
 
 I am a student from Ukraine. Currenty studying at the National Technical University of Ukraine "Ihor Sikorskyi Kyiv Polytechnic Institute"
 
-<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> Love Java and everything related to the concept of `"Write once, run anywhere"`
+<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> Love Java and everything related to the `"Write once, run anywhere"` concept
 
 ---
 
