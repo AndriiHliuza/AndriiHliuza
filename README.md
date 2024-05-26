@@ -56,13 +56,25 @@ I am a student 🎓 from Ukraine. Currenty studying at the National Technical Un
 
 ## Frontend Technologies
 
-<img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="ReactJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<code>HTML, CSS, JavaScript, ReactJS</code>
-
-<br/><br/><br/>
+<ul style="list-style-type: disc; padding-left: 20px;">
+  <li style="display: flex; align-items: center;">
+    <img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <code>HTML, CSS</code>
+  </li>
+  <br/>
+  <li style="display: flex; align-items: center;">
+    <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+    <code>JavaScript, TypeScript</code>
+  </li>
+  <br/>
+  <li style="display: flex; align-items: center;">
+    <img align="left" alt="ReactJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <code>ReactJS</code>
+  </li>
+  <br/>
+</ul>
 
 ---
 
