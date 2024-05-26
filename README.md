@@ -19,7 +19,7 @@ I am a student 🎓 from Ukraine. Currenty studying at the National Technical Un
     <img align="center" alt="Java" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     <img align="center" alt="Spring Boot, Spring Security" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
     <img align="center" alt="Hibernate" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" />
-    <code>Java, Spring Boot, Spring Security, Spring Data JDBC, Spring Data JPA, Hibernate</code>
+    <code>Java, Spring Framework, Spring Boot, Spring Security, Spring Data JDBC, Spring Data JPA, Hibernate</code>
   </li>
   <br/>
   <li style="display: flex; align-items: center;">
