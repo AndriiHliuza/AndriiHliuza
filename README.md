@@ -19,25 +19,37 @@ I am a student 🎓 from Ukraine. Currenty studying at the National Technical Un
     <img align="center" alt="Java" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     <img align="center" alt="Spring Boot, Spring Security" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
     <img align="center" alt="Hibernate" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" />
+    <code>Java, Spring Boot, Spring Security, Spring Data JDBC, Spring Data JPA, Hibernate</code>
   </li>
   <br/>
   <li style="display: flex; align-items: center;">
     <img align="center" alt="PostgreSQL" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
     <img align="center" alt="MySQL" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
     <img align="center" alt="MongoDB" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+    <code>PostgreSQL, MySQL, MongoDB</code>
   </li>
   <br/>
   <li style="display: flex; align-items: center;">
     <img align="center" alt="Maven" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
     <img align="center" alt="Gradle" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />
+    <code>Maven, Gradle</code>
   </li>
   <br/>
   <li style="display: flex; align-items: center;">
     <img align="center" alt="Git" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <code>Git</code>
   </li>
   <br/>
   <li style="display: flex; align-items: center;">
-    <code>💬 WebSockets</code>
+    💬 <code>WebSockets</code>
+  </li>
+  <br/>
+  <li style="display: flex; align-items: center;">
+    🪽 <code>Flyway</code>
+  </li>
+  <br/>
+  <li style="display: flex; align-items: center;">
+    🌶️ <code>Lombok</code>
   </li>
   <br/>
 </ul>
