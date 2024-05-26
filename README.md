@@ -4,7 +4,7 @@
 
 I am a student 🎓 from Ukraine. Currenty studying at the National Technical University of Ukraine "Ihor Sikorskyi Kyiv Polytechnic Institute"
 
-<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> Love Java and everything related to the `"Write once, run anywhere"` concept
+<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> Love Java and everything related to the `Write once, run anywhere` concept
 
 ---
 
@@ -60,6 +60,7 @@ I am a student 🎓 from Ukraine. Currenty studying at the National Technical Un
 <img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="ReactJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<code>HTML, CSS, JavaScript, ReactJS</code>
 
 <br/><br/><br/>
 
