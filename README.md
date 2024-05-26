@@ -65,8 +65,7 @@ I am a student 🎓 from Ukraine. Currenty studying at the National Technical Un
   <br/>
   <li style="display: flex; align-items: center;">
     <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-    <code>JavaScript, TypeScript</code>
+    <code>JavaScript</code>
   </li>
   <br/>
   <li style="display: flex; align-items: center;">
