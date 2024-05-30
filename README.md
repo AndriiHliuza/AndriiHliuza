@@ -82,7 +82,7 @@ I am a student 🎓 from Ukraine. Currenty studying at the National Technical Un
 </div>
 
 <code> WebTalk BACK-END: [messenger-backend](https://github.com/AndriiHliuza/messenger/tree/dev)</code><br>
-<code> WebTalk FRONT-END: [messenger-frontend](https://github.com/AndriiHliuza/messenger-frontend-app/tree/dev)</code><br>
+<code> WebTalk FRONT-END: [messenger-frontend](https://github.com/AndriiHliuza/messenger-frontend-app)</code><br>
 
 <h4>Project Overview</h4>
 <div>WebTalk is a secure messenger that uses combination of asymmetric and symmetric ancryption technologies to ensure protection of transmitted data</div>
