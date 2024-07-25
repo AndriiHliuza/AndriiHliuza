@@ -2,9 +2,17 @@
 
 <br/>
 
-I am a student 🎓 from Ukraine. Currenty studying at the National Technical University of Ukraine "Ihor Sikorskyi Kyiv Polytechnic Institute"
-
 <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> Love Java and everything related to the `Write once, run anywhere` concept
+
+I have a solid foundation in Java and deep understanding of OOP and SOLID along with experience in building complex applications using Spring Framework and Hibernate. 
+
+In my free time, love to explore frontend technologies. Have experience in working with JavaScript, HTML, CSS and ReactJS.
+
+Dedicated to continuous learning and staying updated with industry trends in order to always reach excellence in software development.
+
+`🎓 Education 🎓:` National Technical University of Ukraine "Ihor Sikorskyi Kyiv Polytechnic Institute"
+
+`🎓 Bachelor's degree in Computer Engineering`
 
 ---
 
@@ -83,7 +91,3 @@ I am a student 🎓 from Ukraine. Currenty studying at the National Technical Un
 
 <code> WebTalk BACK-END: [messenger-backend](https://github.com/AndriiHliuza/messenger/tree/dev)</code><br>
 <code> WebTalk FRONT-END: [messenger-frontend](https://github.com/AndriiHliuza/messenger-frontend-app)</code><br>
-
-<h4>Project Overview</h4>
-<div>WebTalk is a secure messenger that uses combination of asymmetric and symmetric ancryption technologies to ensure protection of transmitted data</div>
-<code>For more details or in order to contribute to the development of the project, use the links above</code>
