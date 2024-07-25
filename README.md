@@ -12,8 +12,6 @@ Dedicated to continuous learning and staying updated with industry trends in ord
 
 `🎓 Education 🎓:` National Technical University of Ukraine "Ihor Sikorskyi Kyiv Polytechnic Institute"
 
-`🎓 Bachelor's degree in Computer Engineering`
-
 ---
 
 <div align="center">
