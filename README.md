@@ -87,5 +87,5 @@ Dedicated to continuous learning and staying updated with industry trends in ord
   <h3>My projects</h3>
 </div>
 
-<code> WebTalk BACK-END: [messenger-backend](https://github.com/AndriiHliuza/messenger/tree/dev)</code><br>
+<code> WebTalk BACK-END: [messenger-backend](https://github.com/AndriiHliuza/messenger)</code><br>
 <code> WebTalk FRONT-END: [messenger-frontend](https://github.com/AndriiHliuza/messenger-frontend-app)</code><br>
