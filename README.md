@@ -1,19 +1,5 @@
 # Hello there! 👋
 
-<br/>
-
-<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> Love Java and everything related to the `Write once, run anywhere` concept
-
-I have a solid foundation in Java and deep understanding of OOP and SOLID along with experience in building complex applications using Spring Framework and Hibernate. 
-
-In my free time, love to explore frontend technologies. Have experience in working with JavaScript, HTML, CSS and ReactJS.
-
-Dedicated to continuous learning and staying updated with industry trends in order to always reach excellence in software development.
-
-`🎓 Education 🎓:` National Technical University of Ukraine "Ihor Sikorskyi Kyiv Polytechnic Institute"
-
----
-
 <div align="center">
   <h3>🔧 Technologies & Tools</h3>
 </div>
