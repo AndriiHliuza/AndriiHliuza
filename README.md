@@ -66,12 +66,3 @@
   </li>
   <br/>
 </ul>
-
----
-
-<div align="center">
-  <h3>My projects</h3>
-</div>
-
-<code> WebTalk BACK-END: [messenger-backend](https://github.com/AndriiHliuza/messenger)</code><br>
-<code> WebTalk FRONT-END: [messenger-frontend](https://github.com/AndriiHliuza/messenger-frontend-app)</code><br>
