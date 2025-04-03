@@ -33,10 +33,6 @@
   </li>
   <br/>
   <li style="display: flex; align-items: center;">
-    💬 <code>WebSockets</code>
-  </li>
-  <br/>
-  <li style="display: flex; align-items: center;">
     🪽 <code>Flyway</code>
   </li>
   <br/>
